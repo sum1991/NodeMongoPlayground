@@ -1,0 +1,9 @@
+{
+  "name": "node-js-sample",
+  "version": "0.2.0",
+  "description": "A sample node app",
+  "dependencies": {},
+  "devDependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
